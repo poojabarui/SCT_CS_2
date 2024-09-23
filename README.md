@@ -24,3 +24,4 @@ Python Imaging Library(Pillow)
 
 # How to Run
 Clone the Repository: 
+git clonr https://github.com/your-username/SCT_CS_2.git
