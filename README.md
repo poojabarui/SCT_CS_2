@@ -1,6 +1,13 @@
 # SCT_CS_2
 
 Pixel Manipulation for Image Encryption Developed a simple image encryption tool using pixel manipulation. Where you can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. It allow users to encrypt and decrypt images.
+<pre>
+Name : POOJA BARUI
+Company : SkillCraft Technology
+iNTERN ID : SCT/SEP24/6250
+Domain : CYBER SECURITY 
+Duration : SEPTEMBER 15TH,2024 TO OCTOBER 15TH,2024
+</pre>
 
 # Pixel Manipulation for Image Encryption
 The Python script provides functionalities to encrypt and decrypt images using a simple encryption algorithm based on XOR operation. It also allows users to swap the RGB values of pixels in an image.
